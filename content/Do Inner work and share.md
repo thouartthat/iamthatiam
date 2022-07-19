@@ -11,3 +11,4 @@ I have found I desire to connect with other beings, and give and receive [[value
 
 I have found I can create value for others, and I have found that others can create value for me. As all of us creates value, creating value is life. 
 
+

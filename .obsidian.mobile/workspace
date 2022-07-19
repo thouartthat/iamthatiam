@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/read/What is True.md",
+            "file": "content/Do Inner work and share.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/read/What is True.md",
+            "file": "content/Do Inner work and share.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/read/What is True.md",
+            "file": "content/Do Inner work and share.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,7 +106,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/read/What is True.md"
+            "file": "content/Do Inner work and share.md"
           }
         }
       }
@@ -115,6 +115,7 @@
   },
   "active": "6e3faa89ea6c0ef1",
   "lastOpenFiles": [
+    "content/read/What is True.md",
     "content/Asking Difficult Questions.md"
   ]
 }
