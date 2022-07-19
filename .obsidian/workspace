@@ -7,12 +7,8 @@
         "id": "6774d5c8fb623990",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "digital signature.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital signature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
