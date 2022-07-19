@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "51791f5542b3d599",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e3faa89ea6c0ef1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/read/What is True.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "614fa1f9f719d58e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a08906ae49f2ed49",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f0c8ef5eef926314",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "30e138917a95047b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "948e4139bf161dec",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "57970abbe13dbdad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3d4e7f595aa5f65e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "content/read/What is True.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "123a637cd7089caa",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "content/read/What is True.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d7b64a68814c9771",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "content/read/What is True.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "6e3faa89ea6c0ef1",
+  "lastOpenFiles": [
+    "content/Asking Difficult Questions.md"
+  ]
+}
