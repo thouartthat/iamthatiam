@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "5233813692032abf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6774d5c8fb623990",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/connect/Connect with Me.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b29f26c56a83a54",
+    "type": "split",
+    "children": [
+      {
+        "id": "b30ec8d6d0e93dd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d17e7410a4d8009e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "31713eb1ed0e9f9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20d8759f323b2670",
+    "type": "split",
+    "children": [
+      {
+        "id": "73844ccfe15903c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5a3e9526e3f15f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/connect/Connect with Me.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6774d5c8fb623990",
+  "lastOpenFiles": [
+    "content/connect/Connect with Me.md",
+    "exchange/wtf.md",
+    "Test/foo.md",
+    "content/exchange/Exchange Value with Me.md",
+    "content/exchange/Esoteric Technology.md",
+    "content/exchange/index.md",
+    "content/index.md",
+    "content/Listen.md",
+    "content/listen/Listen.md",
+    "content/Read.md"
+  ]
+}
