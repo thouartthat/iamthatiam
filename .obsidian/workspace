@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/connect/Connect with Me.md",
+            "file": "digital signature.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/connect/Connect with Me.md",
+                "file": "digital signature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6774d5c8fb623990",
   "lastOpenFiles": [
+    "digital signature.md",
+    "Do Inner work and share.md",
+    "Electrical and Electronic Design.md",
+    "content/Books.md",
     "content/connect/Connect with Me.md",
     "exchange/wtf.md",
     "Test/foo.md",
     "content/exchange/Exchange Value with Me.md",
     "content/exchange/Esoteric Technology.md",
-    "content/exchange/index.md",
-    "content/index.md",
-    "content/Listen.md",
-    "content/listen/Listen.md",
-    "content/Read.md"
+    "content/exchange/index.md"
   ]
 }
