@@ -23,9 +23,16 @@ Mutations should be possible without requiring global consensus.
 
 **Brief Technical Overview**  
 
-In technical terms, the Great Global Graph is a distributed data structure, where each peer stores information locally, structured in a private data structure, and selectively maintains relationships to other private data structures. Agents participating in the graph can constrain mutations on a subset of their data-structure by making [[Cryptographic Statements]] on a [[blockchain]]. 
+In technical terms, the Great Global Graph is a distributed data structure, where each peer stores information locally, structured in a private [[data structure]], and selectively maintains relationships to other private data structures. Agents participating in the graph can constrain mutations on a subset of their data-structure by making [[Cryptographic Statements]] on a [[blockchain]]. 
 
-## Examples
+## Key Concepts
+- [[Peers]] (Also known as Agents or Nodes)
+- [[Cryptographic Statements]]
+- [[Schemas]]
+- [[Namespaces]]
+- [[Delegation]]
+- [[Synchronization]]
+- [[Smart Contracts]] and Consensus protocols
 
 
 

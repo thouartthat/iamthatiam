@@ -17,6 +17,8 @@ A minimum viable exchange can be item for item, or item for [[Cryptocurrency]].
 - Ability to browse a list of goods or services another is providing
 - Ability to propose an exchange between you and another agent
 - Ability to send and receive textual messages
+- Ability to create new agents
+- Ability to create new schemas (machine -> human readable translation layers)
 - Directory
 	- Ability to create a directory of people
 	- Ability to add your agent to a directory
