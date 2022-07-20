@@ -7,8 +7,12 @@
         "id": "6774d5c8fb623990",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/iamthatiam.org/nav.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/iamthatiam.org/nav.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "6774d5c8fb623990",
   "lastOpenFiles": [
+    "content/iamthatiam.org/exchange/Exchange Value with Me.md",
+    "content/nav.md",
+    "content/Embedded Systems.md",
+    "content/Do Inner work and share.md",
+    "content/digital signature.md",
+    "content/Diets.md",
+    "content/Cryptocurrency.md",
+    "content/Cooking.md",
     "digital signature.md",
-    "Do Inner work and share.md",
-    "Electrical and Electronic Design.md",
-    "content/Books.md",
-    "content/connect/Connect with Me.md",
-    "exchange/wtf.md",
-    "Test/foo.md",
-    "content/exchange/Exchange Value with Me.md",
-    "content/exchange/Esoteric Technology.md",
-    "content/exchange/index.md"
+    "Do Inner work and share.md"
   ]
 }
