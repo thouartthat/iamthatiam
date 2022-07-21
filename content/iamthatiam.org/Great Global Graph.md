@@ -67,6 +67,19 @@ These bridges can be automated, such as a virtual "light switch" that when inter
 
 Bridges can also be implemented by people. For example, someone can place an order for a coffee virtually, and somewhere, someone sees the order on a display, and makes the coffee. 
 
+## Describing All of the Real World with Computers
+
+If all the knowledge to sculpt reality was accessible in one place
+And there was a mechanism for anyone to easily ask *other people* for **something of [[value]]** in return for **something of [[value]]** ...
+
+Maybe then we would see abundance 
+
+Some ideas that aren't quite fleshed out
+- Alternate supply chain [[Value Based Exchange]]
+- "Recipes" for building anything (computer, meal, house, water bottle) [[Recipes for Reality]] (Open source everything)
+- Ignore copyright and patents, or rediscover everything independently 
+- Check out of the existing economy
+
 
 ## Brief Technical Overview
 
