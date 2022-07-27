@@ -7,6 +7,6 @@ publish: True
  - [i am](iam)
  - [[intention]]
  - [[Exchange Value with Me|exchange]]
- - [connect](connect)
+ - [[Connect with Me|connect]]
  - [listen](listen)
  - [read](read)
