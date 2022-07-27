@@ -6,7 +6,7 @@ publish: True
 
 A bonded internet connection is a connection is two more more internet connections **bonded** into an effective single connection. 
 
-The new connection has bandwidth approximately equal to the sum of the bandwidth of the bonded connection.
+The new connection has bandwidth approximately equal to the sum of the bandwidths of the bonded connections.
 
 Typically bonded connections support failover, so if one of the connections fails, active connections will continue without failing.
 
