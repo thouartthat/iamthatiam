@@ -12,6 +12,9 @@ Typically bonded connections support failover, so if one of the connections fail
 
 ```mermaid
  graph TD;
+      WiFiA-->HomeRouter;
+      WiFiB-->HomeRouter;
+      WiFiC-->HomeRouter;
       HomeRouter-->Starlink;
       HomeRouter-->Geolinks;
       Geolinks-->CloudServer;
