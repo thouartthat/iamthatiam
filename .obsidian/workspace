@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6774d5c8fb623990",
+        "id": "5a8569ec9d4c89c1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/iamthatiam.org/Bonded Internet Connection.md",
+            "file": "content/iamthatiam.org/iam/index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/iamthatiam.org/Bonded Internet Connection.md",
+                "file": "content/iamthatiam.org/iam/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6774d5c8fb623990",
+  "active": "5a8569ec9d4c89c1",
   "lastOpenFiles": [
-    "content/iamthatiam.org/nav.md",
-    "connect.md",
-    "content/iamthatiam.org/Connect with Me.md",
-    "content/iamthatiam.org/connect/index.md",
-    "content/iamthatiam.org/Great Global Graph.md",
+    "Practical Steps and Priorities.md",
+    "content/iamthatiam.org/intention.md",
+    "content/iamthatiam.org/Technical Info.md",
+    "content/iamthatiam.org/The Dream.md",
     "content/iamthatiam.org/Unite People with Technology.md",
-    "[schemas.md",
-    "content/iamthatiam.org/read/brainstorm/Great Global Graph Old Content.md",
-    "content/iamthatiam.org/Cryptographic Statements.md",
-    "content/iamthatiam.org/read/Value Based Exchange MVP.md"
+    "content/iamthatiam.org/value.md",
+    "content/iamthatiam.org/Yoga and Meditation.md",
+    "content/iamthatiam.org/Value Based Exchange.md",
+    "content/iamthatiam.org/Do Inner work and share.md",
+    "content/iamthatiam.org/Electrical and Electronic Design.md"
   ]
 }

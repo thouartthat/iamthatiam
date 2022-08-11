@@ -33,7 +33,7 @@ Since it comes with low quality RAM and storage, we'll also buy :
  - [Transcend 128GB SATA III 6GB/S MSA230S mSATA SSD 230S Solid State Drive TS128GMSA230S](https://www.amazon.com/gp/product/B07GMD5R7M/ref=ox_sc_act_title_3?smid=ATVPDKIKX0DER&th=1)
 
 Price: $425
-
+	
 ### Cloud Server
 Let's use a DigitalOcean Droplet, with 2TB of transfer. These come out to be about $12/month.
 

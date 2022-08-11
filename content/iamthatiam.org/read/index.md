@@ -48,3 +48,23 @@ These books shows what could happen if we merge with machines.
  
 #### Honor Harrington Series
  - **All of them!**
+
+
+## Spiritual/Religion/Philosophy
+ - **On the road** - Jack Kerouac
+ - **The Art of Learning** - Josh Waitzkin
+ - Cultural Literacy for Religion
+ - **Meditations** - Marcus Aurelius
+ - **Zen Mind, Beginners Mind**
+ - **The Alchemist**
+ - **Autobiography of A Yogi**
+ - **The Four Agreements**
+ - **Way of the Peaceful Warrior**
+ - **12 Rules for Life** - Jordan B. Peterson
+ - **Courage to be Disliked** - Icho Kishimi, Fumitake Koga
+ - **Sri Vijnana Bhairava Tantra**
+  - **Siddhartha** - Hermann Hesse
+ - **Tantra Illuminated** - Christopher D. Wallace
+ - **The Recognition Sutras** - Christopher D. Wallace
+ - **The Complete Works of Swami Vivekananda Volume I** 
+ - **Tao Te Ching** - I like the Gia-Fu Feng and Jane English translation

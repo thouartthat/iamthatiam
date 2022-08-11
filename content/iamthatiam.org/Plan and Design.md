@@ -12,7 +12,7 @@ YAML front matter can be used for something tags.
 
 - instructions on setting up matrix and element
 -  instructions on setting up an RSS reader
--  the philosophy of RSSi
+-  the philosophy of RSS
 -  the philosophy of your own website 
 - the goal of removing scarcity 
 - the value of inner work 
