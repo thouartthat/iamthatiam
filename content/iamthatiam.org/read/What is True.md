@@ -60,7 +60,7 @@ I value hearing the experiences from peers I trust, and believe will say what is
 I only give so much weight to second hand experiences, especially given that reality may be very fluid. 
 
 
-## Secondhand experience from untrusted peers
+## 6. Secondhand experience from untrusted peers
 If I hear something from some random girl on the street, or some random dude on YouTube, is there any reason I should immediately trust it? I say no. I will let the idea interact with my existing mental impressions, both intuitively, and with logic and see if it is congruent with past experiences. I will allow intuition to enter the picture, but will be clear that intuition 
 
 
