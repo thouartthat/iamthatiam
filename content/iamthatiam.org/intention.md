@@ -12,6 +12,7 @@ I am building this world by:
 3. Discovering new/esoteric/occult technology
 
 
+
 ## 1. Building and sharing a spiritual foundation of inner work
 ![[Do Inner work and share]]
 
@@ -20,7 +21,7 @@ I am building this world by:
 ![[Unite People with Technology]]
 
 
-## 4. Discovering, creating and using advanced technology beyond what seems possible now
+## 3. Discovering, creating and using advanced technology beyond what seems possible now
 I've met some interesting people with extraordinary claims. My bar for determining what is true is very high. If there are people that can prove to my standards that their extraordinary claims are true, such "hidden" or "esoteric" technology may go very far in creating the world of abundance. However, as I've said before, a foundation of Inner Work is...foundational.
 
 

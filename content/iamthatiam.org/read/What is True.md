@@ -36,8 +36,9 @@ I trust that my memories are somewhat reliable, and somewhat trustworthy, but am
 
 ## 3. Intuition
 I assume that there are two different experiences that fit under the bucket of intuition.
-1. True intuition, coming from a higher self (I have no proof this really exists)
-2. Thoughts and feelings arising from complex pattern matching occurring in the subconscious mind
+
+ 1. True intuition, coming from a higher self (I have no proof this really exists)
+ 2. Thoughts and feelings arising from complex pattern matching occurring in the subconscious mind
 
 Both are valuable, and the second type of intuition seems to be something that can be trained and developed through living a rich life full of diverse experiences. The so-called "sub-conscious mind" appears to collect all these experiences and bubble them up as feelings, so as not not overwhelm the present moment with all past experiences. 
 
@@ -53,7 +54,7 @@ One part of my [[Do Inner work and share|inner work]] is bringing unconscious as
 
 This also allows the input of intuition. Let's say I have a feeling, or intuitive knowing that wearing blue today will result in more calm. I can make that assumption, and then use my mind to examine my memories and mental impressions and see if blue being calming seems true. I can even live my life selecting more blue colors to wear, to decorate and experience, even if I don't know if blue really is calming. 
 
-## 5. Secondhand experience from trust peers
+## 5. Secondhand experience from trusted peers
 I value hearing the experiences from peers I trust, and believe will say what is true. They may tell me something false because, they are lying, or they do not know, or because the experience only applies to them, and not to me. There may be other reasons. 
 
 I only give so much weight to second hand experiences, especially given that reality may be very fluid. 

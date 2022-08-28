@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/iamthatiam.org/iam/index.md",
+            "file": "content/iamthatiam.org/read/What is True.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/iamthatiam.org/iam/index.md",
+                "file": "content/iamthatiam.org/read/What is True.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5a8569ec9d4c89c1",
   "lastOpenFiles": [
-    "Practical Steps and Priorities.md",
+    "content/iamthatiam.org/iam/index.md",
+    "content/iamthatiam.org/index.md",
+    "iam.md",
     "content/iamthatiam.org/intention.md",
-    "content/iamthatiam.org/Technical Info.md",
-    "content/iamthatiam.org/The Dream.md",
-    "content/iamthatiam.org/Unite People with Technology.md",
-    "content/iamthatiam.org/value.md",
-    "content/iamthatiam.org/Yoga and Meditation.md",
-    "content/iamthatiam.org/Value Based Exchange.md",
+    "content/iamthatiam.org/Bonded Internet Connection.md",
     "content/iamthatiam.org/Do Inner work and share.md",
-    "content/iamthatiam.org/Electrical and Electronic Design.md"
+    "Church.md",
+    "content/iamthatiam.org/Asking Difficult Questions.md",
+    "content/iamthatiam.org/read/What is True.md",
+    "content/iamthatiam.org/digital signature.md"
   ]
 }
