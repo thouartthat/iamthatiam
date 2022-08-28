@@ -10,6 +10,6 @@ I claim the mind, body, and soul, and all that arises from I are the true proper
 
 I am not property of any man, person, corporation, legal entity or creation of man, spirit or god or other power or entity.
 
-I am the sovereign and true owner of i and all property of I.
+I am the sovereign and true owner of I and all property of I.
 
 I reserve all rights of I forever.
