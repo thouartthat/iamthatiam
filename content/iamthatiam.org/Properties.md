@@ -64,3 +64,17 @@ publish: True
 
 ![](https://photos.zillowstatic.com/fp/e4b1d756f877a1e6788e645e01a5db73-cc_ft_1536.webp)
 
+
+
+# California
+
+
+Could be turned into BnB (has 4x 1br/1ba suites + main house and big kitchen)
+https://www.zillow.com/homedetails/8773-Fraguero-Rd-Sonora-CA-95370/16192378_zpid/
+
+
+2 houses
+https://www.zillow.com/homedetails/3670-Highway-49-Angels-Camp-CA-95222/52451409_zpid/
+
+
+https://www.zillow.com/homedetails/552-Vaughn-Dr-Ringgold-GA-30736/69416562_zpid/

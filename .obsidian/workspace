@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/iamthatiam.org/Properties.md",
+            "file": "content/iamthatiam.org/Great Global Graph.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/iamthatiam.org/Properties.md",
+                "file": "content/iamthatiam.org/Great Global Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5a8569ec9d4c89c1",
   "lastOpenFiles": [
+    "schema.md",
+    "Schemas.md",
+    "content/iamthatiam.org/Great Global Graph.md",
+    "content/iamthatiam.org/Cryptographic Statements.md",
+    "Recipes for Reality.md",
+    "content/iamthatiam.org/Real World.md",
+    "content/iamthatiam.org/Properties.md",
     "content/iamthatiam.org/iam/index.md",
     "content/iamthatiam.org/index.md",
-    "iam.md",
-    "content/iamthatiam.org/read/What is True.md",
-    "content/iamthatiam.org/intention.md",
-    "content/iamthatiam.org/Bonded Internet Connection.md",
-    "content/iamthatiam.org/Do Inner work and share.md",
-    "Church.md",
-    "content/iamthatiam.org/Asking Difficult Questions.md",
-    "content/iamthatiam.org/digital signature.md"
+    "iam.md"
   ]
 }
