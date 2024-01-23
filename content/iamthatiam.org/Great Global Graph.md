@@ -15,16 +15,15 @@ Cities are connected via relationships called roads.
 Roads are connected to asphalt via a relationship called "composition".
 
 Many people study the way different relate to each other in a formal, mathematical sense, and call the study [[graph theory]].  They define a few terms that I will use below
-
- - **node** - a singular entity
+- **node** - a singular entity
  - **edge**  - a relationship between two entities
  - **graph** - One or more **nodes** optionally connected with **edges**
 
 From these words, I coin the term **Great Global Graph**.
 
- - Great mirrors the size and complexity of all of known reality.
- - Global implies the **globe**, or earth (assuming it is in fact round)
- - Graph means that everything is connected.
+Great mirrors the size and complexity of all of known reality.
+Global implies the **globe**, or earth (assuming it is in fact round)
+Graph means that everything is connected.
 
 The Great Global Graph is the name I give to the interconnectedness of all known reality, made explicit and clear in the memory of computers systems.
 

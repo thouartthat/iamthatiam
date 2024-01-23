@@ -2,13 +2,18 @@
 publish: True
 ---
 
-I see a world without war, without authority, without coercion where people are free from fear being a leading cause of action. In this world people explore what it means to be conscious, what they wish to give, and what they wish to receive, so we may all share and enjoy each and every unique facet of consciousness itself.
+I feel that which we call spirit animating my being, in every moment, looking back at me through every eye. I see it when I stand in awe gazing at the primal fire erupting from the ground in showers of molten earth, I feel at when I hold a furry animal in my arms, and I see it in eyes of my beloved when we look at each other.
 
+In a changing world often described as broken, chaotic and frightening, I see the material world as a series of ephemeral moments marking the flow of life towards greater peace and unity.
 
-I am building this world by:
+Imagine we are all infinitely powerful creator beings, each telling the story of the journey home. Imagine what is possible if there are no limits, no constraints and infinite possibility. What would you show the world?
+
+I feel an inner tension in the core of my being, an intention to flow with life, love in every moment, and connect with my self others, and create from my core.
+
+I am releasing this intention by:
 
 1. Doing inner work and sharing
-2. Uniting People with Traditional Technology
+2. Connecting people through the use of traditional technology
 3. Discovering new/esoteric/occult technology
 
 
@@ -30,11 +35,6 @@ I've met some interesting people with extraordinary claims. My bar for determini
 
 # How To Make this Real
 ## Practical Reality
-What do I actually need to achieve this mission? What would I like to receive, possibly just for my own enjoyment? In the general case, they are documented below.
-
-For the immediate mission of answering the questions about law, doing inner work, and doing enlightened engineering, I need a place to live, healthy food to eat, an internet connection, and the ability to travel and meet with people. I'll be recording some conversations and publishing the audio (Podcast).
-
-In order to support me, you can either provide some of these needs directly, or provide me with some token of value that others will accept in exchange, for example Federal Reserve Notes, records on a blockchain (Cryptocurrency) or "precious" metals.
 
 
 ![[Exchange Value with Me]]

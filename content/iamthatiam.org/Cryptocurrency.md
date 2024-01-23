@@ -4,7 +4,7 @@ publish: True
 
 # Cryptocurrency
 
-I consider cryptocurrency an interesting way of recording the exchange of numbers measuring [[value]]. 
+I consider cryptocurrency a fancy way of recording the exchange of numbers measuring [[value]]. 
 
 Although I wish to see a [[Value Based Exchange]] rather than a traditional economy, in the meantime I will use cryptocurrency, as it is certainly better than pieces of paper printed by authority that freely manipulates the value by printing more of it, and handing it out to certain connected people.
 

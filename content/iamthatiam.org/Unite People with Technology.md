@@ -70,8 +70,10 @@ People who use it do so because they wish to exchange value with others honorabl
 [[Great Global Graph]]
 
 
-### Value Based Economy
-A value based economy functions by exchanging value, instead of measure of value. As people [[Do Inner work and share]], they will begin to know what their true desires are, and be able to answer the questions: What do I wish to give?, and What do I wish to receive?
+### Echange Value
+Rather than participating in an economy using fiat currency, we can directly exchange value, instead of a one-dimensional measure of value. As people [[Do Inner work and share]], they will begin to know what their true desires are, and be able to answer the questions: what do I wish to give?, and what do I wish to receive?
+
+There may may always be the need to measure value, as we do know with money, and as we evolve, our techniques of measuring tokens of value will evolve to match our way of interacting.
 
 See:
 
@@ -90,9 +92,11 @@ These recipes will allow "advanced barter", and a "distributed supply web" where
 See [[Build System for physical systems]]
 
 ### Talking Points
+
 These are notes for Isaac to remember the progression of ideas to tell this story
-- Remember that we can give and receive value.
-- Giving and receiving unites people
-- The great global graph mirrors natural interactions of peers
-- We can directly share value if we can directly interact with peers
-- Technology then follows nature, rather than attempting to go against nature
+
+ - Remember that we can give and receive value.
+ - Giving and receiving unites people
+ - The great global graph mirrors natural interactions of peers
+ - We can directly share value if we can directly interact with peers
+ - Technology then follows nature, rather than attempting to go against nature
